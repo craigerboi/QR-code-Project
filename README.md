@@ -1,7 +1,6 @@
 # Outline of data extraction and model building
 
-Hello! You used the QR code, nice, all that talk about machine learning and Heusler alloys on the poster, it was not made up! This github repository contains two jupyter notebooks which give an outline of the machine learning work done in this project. Click on 'view code' to get taken to the code.
-
+Hello! You used the QR code, nice, all that talk about machine learning and Heusler alloys on the poster, it was not made up! This github repository contains two jupyter notebooks which give an outline of the machine learning work done in this project. Assuming you are on mobile, click on 'view code' to get taken to the code. Below we describe the two files.
 
 ## Data_extraction_outline.ipynb 
 
