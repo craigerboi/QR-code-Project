@@ -13,7 +13,7 @@ This file contains the code which created a dataset containing all Heulser alloy
 
 This file outlines the code used to build machine learning models once you have the appropriate. It also contains a link to a more visually appealing presentation of this code
 
-## ML_modelmaking.ipynb
+## ML_model_making.ipynb
 
 I am using this file so that nbviewer can render the jupyter notebook, that's actually where the QR code goes to!
 
